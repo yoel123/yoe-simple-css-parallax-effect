@@ -15,6 +15,7 @@ to use this effect simply copy the class below and apply it to the target div.
 <b>
 demo:
 </b><br>
+https://cdn.rawgit.com/yoel123/yoe-simple-css-parallax-effect/master/index.html
 
 if theirs any mistake or something you dont understand please contact me.
 
